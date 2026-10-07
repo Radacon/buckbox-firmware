@@ -1,6 +1,6 @@
-﻿# BuckBox firmware downloads
+# BuckBox firmware downloads
 
-Current firmware version: **0.4.1**
+Current firmware version: **0.5.1**
 
 - `buckbox-heltec-v4-current.bin`: Heltec WiFi LoRa 32 V4
 - `buckbox-heltec-v4-r8-current.bin`: Heltec WiFi LoRa 32 V4 R8
